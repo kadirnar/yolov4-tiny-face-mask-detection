@@ -1,0 +1,5 @@
+classes= 1
+train  = /home/kadir/darknet/data/mask/train.txt
+valid  = /home/kadir/darknet/data/mask/test.txt
+names = /home/kadir/darknet/cfg/mask.names
+backup = /home/kadir/darknet/backup
