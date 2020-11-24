@@ -35,18 +35,18 @@ Gpu kurulumu başarılı bir şekilde olduysa yolov4-tiny test edebiliriz. Önce
 - models klasörün içindeki dosyaları backup klasörün içerisine atabilirsiniz.
 - Face Mask Dataset klasörü data klasörün içerisine atabilirsiniz.
 
-Not: Dosyaları istediğiniz yere atabilirsiniz. Terminal de kodu yazarken ona göre yazmalısınız. Problem alırsanız Issues kısmına yazabilirsiniz.
+**Not:** Dosyaları istediğiniz yere atabilirsiniz. Terminal de kodu yazarken ona göre yazmalısınız. Problem alırsanız Issues kısmına yazabilirsiniz.
 
 Dosya işlemleri yaptıktan sonra terminalde çalıştıralım.
 
-Resim için;
+**Resim için;**
 ```
 cd darknet
 ./darknet detector test cfg/mask.data cfg/mask-tiny.cfg backup/mask-tiny_last.weights data/face-mask-datasets/2.jpeg 
 ```
 <img src="https://media-exp1.licdn.com/dms/image/C4D22AQFf6Yioshk65g/feedshare-shrink_800-alternative/0/1606147363048?e=1609372800&v=beta&t=bD5Rk1xDsGI7_po6Vn8UDq818sYsvcIxdp0G-VMOd2M">
 
-Video için;
+**Video için;**
 ```
 cd darknet
 ./darknet detector demo cfg/mask.data cfg/mask-tiny.cfg backup/mask-tiny_last.weights  
