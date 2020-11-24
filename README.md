@@ -7,11 +7,7 @@
 
 Yolo4-tiny kullanarak maskeyi tespit etmek. Basit bir şekilde herkesin bu projeyi kolay bir şekilde yapabilmesi.
 
----
-
 :tv: **Yakında youtube videosu çekilecektir.**(https://youtu.be ) :point_left:
-
----
 
 ## YOLOV4-Tiny Kullanımı
 İlk önce https://github.com/AlexeyAB/darknet github sayfasını klonlama işlemi yapıyoruz.
