@@ -13,6 +13,8 @@ Yolo4-tiny kullanarak maskeyi tespit etmek. Basit bir şekilde herkesin bu proje
 
 ###### Not: Eğitimi belli bir yerden sonra durdurmak lazım. Yoksa ezber yapıyor. Lakin eğitimi gece yaptığı için kendi otomatik sonlandı. Daha iyi sonuçlar için sizlerin sonlandırmasını tavsiye ederim.
 
+###### Not2: Eğitim veri seti benzer olduğundan doğruluk oranı %80'lerde sabit şekilde ilerlemiş. Veri seti oluştururken gerçek dünyaya yakın resimlerin olması size çok şey katacaktır.
+
 #### YOLOV4-Tiny Kurulumu:
 
 İlk önce https://github.com/AlexeyAB/darknet github sayfasını klonlama işlemi yapıyoruz.
