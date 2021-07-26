@@ -48,7 +48,6 @@ Dosya işlemleri yaptıktan sonra terminalde çalıştıralım.
 cd darknet
 ./darknet detector test cfg/mask.data cfg/mask-tiny.cfg backup/mask-tiny_last.weights data/face-mask-datasets/2.jpeg 
 ```
-<img src="https://media-exp1.licdn.com/dms/image/C4D22AQFf6Yioshk65g/feedshare-shrink_800-alternative/0/1606147363048?e=1609372800&v=beta&t=bD5Rk1xDsGI7_po6Vn8UDq818sYsvcIxdp0G-VMOd2M">
 
 **Video için;**
 ```
