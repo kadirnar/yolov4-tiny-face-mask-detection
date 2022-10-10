@@ -1,6 +1,6 @@
 ## Yolov4-Tiny ile Maske Tespiti
 
-
+Videolu Anlatım için: https://www.youtube.com/watch?v=owqs8XVxiLk
 **Yolov4 darknet** ile yazılmıştır.(https://github.com/AlexeyAB/darknet)
 
 #### Bu Projenin Amacı:
